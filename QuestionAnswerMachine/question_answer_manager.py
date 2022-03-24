@@ -11,7 +11,7 @@ class AnsweringManager(ConsoleApp):
         print("Hello, I am a question answering machine bot.\n")
 
     def accquireUserInput(self):
-        question = input("\n"+self.__messageLine)
+        question = input(self.__messageLine)
         return question
 
     def displayResult(self, matchedQuestion, matchedAnswer):

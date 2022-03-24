@@ -13,5 +13,8 @@
 },
 {"question": "Do you feel sleepy?",
  "answer": "Yes, I am feeling sleepy"
+},
+ {"question": "How are you?",
+ "answer": "Very good"
 }
 ]
